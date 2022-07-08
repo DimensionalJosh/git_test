@@ -1,3 +1,3 @@
 # git_test
-HE HE HE HE
+Watashi wa 
 Hello Odin!
